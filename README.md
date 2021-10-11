@@ -1,6 +1,6 @@
 # compas_mining
 
-ファイルの説明
+### ファイルの説明
 1. compas_train_mining.csv
 - compasの訓練データをone-hot encodingでバイナリー化したデータ
  - 元々の特徴量数 : 7
