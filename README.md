@@ -11,3 +11,7 @@
  - バイナリー化した特徴量数 : 19
 3. term_dict.txt
 - https://github.com/corels/corels のdata/compas_train.outファイルの中のマイニングされた分岐条件（antecedents, cond）のみを取り出し、辞書化したファイル
+
+出来たプログラム
+
+https://colab.research.google.com/drive/1LNxWPS-lYxhij1YTGmzAHbVxVJweCvh3?usp=sharing 
