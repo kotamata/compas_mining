@@ -14,9 +14,11 @@
 
 4. term_dict.pkl
 - term_dict.txt をpklファイルにしたもの
+- ターム数 : 155
 
 5. term_over1.pkl
 - https://www.aaai.org/GuideBook2018/16343-70634-GB.pdf の論文の実験と合わせるため、term_dictの中からラベルの割合が50％以上のタームを取り出したファイル
+- ターム数 : 64
 
 
 出来たプログラム
